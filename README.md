@@ -68,29 +68,6 @@ This app is focused to convert barcode to QRcode. Built with React Native
 
 BarcodeToQR is barcode converting app which focuses on giving good experience to barcode users.
 
-## Aspects Involved
-
-### M
-
-- In the words of Plato
-
-  > Music gives a soul to the universe, wings to the mind, flight to the imagination and life to everything.
-
-- In the words of Billy Joel
-
-  > I think music in itself is healing. It’s an explosive expression of humanity. It’s something we are all touched by. No matter what culture we’re from, everyone loves music.
-
-- In the words of Albert Schweitzer
-  > There are two means of refuge from the miseries of life: music and cats.
-
-### Artificial Intelligence
-
-- Machine learning for Facial recognition
-
-### Awesome UI
-
-- > Simple and smart design. 
-
 ## Features
 
 - Scan Barcode
